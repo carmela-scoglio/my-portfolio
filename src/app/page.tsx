@@ -67,14 +67,11 @@ export default function HomePage() {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="text-gray-300 space-y-6">
               <p className="text-lg">
-                Sono un Data Scientist appassionato con esperienza nell'analisi di dati complessi 
-                e nello sviluppo di modelli predittivi. Mi specializzo nella trasformazione di 
-                dati grezzi in insights azionabili per il business.
+                I work as a freelancer helping companies make data-driven decisions and improve operational performance through advanced quantitative models.
               </p>
               <p className="text-lg">
-                La mia expertise include machine learning, deep learning, analisi statistica 
-                e visualizzazione dati. Lavoro principalmente con Python, R e SQL, 
-                utilizzando framework come TensorFlow, PyTorch e Scikit-learn.
+                I have strong expertise in Operations Research, including linear and non-linear optimization, stochastic modeling, and scheduling complex systems. In data analysis and forecasting, I am proficient in Python (using libraries such as pandas, numpy, and scikit-learn), R, SQL, and techniques like ARIMA and Monte Carlo simulations to generate accurate predictions and actionable insights.ù
+                My industry experience spans energy—especially battery asset optimization—gaming and betting analytics, and consulting, which allows me to tackle a wide range of quantitative and optimization challenges.
               </p>
             </div>
             <div className="grid grid-cols-2 gap-6">
