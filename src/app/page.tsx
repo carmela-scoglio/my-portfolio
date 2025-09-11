@@ -155,7 +155,7 @@ export default function HomePage() {
               </div>
               <h3 className="text-xl font-bold text-white mb-3">Dashboard Analytics</h3>
               <p className="text-gray-300 mb-4">
-                Dashboard interattivo per l'analisi in tempo reale di metriche business 
+                Dashboard interattivo per l&#39;'analisi in tempo reale di metriche business 
                 con visualizzazioni dinamiche.
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
